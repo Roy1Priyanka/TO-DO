@@ -1,10 +1,10 @@
-*## 📝 To-Do App*
+# *📝 To-Do App*
 
 A modern, interactive To-Do application that helps you manage tasks efficiently with add, edit, complete, delete, search, filter, and dark/light mode functionality. Tasks are persisted using localStorage for seamless user experience.
 
 ---
 
-*💡 Overview*
+##*💡 Overview*
 
 This To-Do App allows users to:
 
@@ -22,7 +22,7 @@ Persist tasks across page reloads using localStorage.
 
 ---
 
-*⚙️ Features*
+##*⚙️ Features*
 
 Add Task: Input task text, optional date & time → click ➕ Add Task.
 
@@ -44,7 +44,7 @@ Persistent Storage: Tasks saved in localStorage.
 
 ---
 
-*🛠️ Technologies Used*
+##*🛠️ Technologies Used*
 
 HTML5 – Page structure
 
@@ -56,7 +56,7 @@ Font Awesome – Icons via CDN
 
 ---
 
-*🔧 Usage Instructions*
+##*🔧 Usage Instructions*
 
 Add Task: Type task text, optionally select a date & time → click ➕ Add Task.
 
@@ -74,7 +74,7 @@ Toggle Theme: Click 🌙 / ☀️ to switch between dark/light modes.
 
 ---
 
-*🌐 Live Demo*
+##*🌐 Live Demo*
 
 You can view and interact with the app online here:
 
