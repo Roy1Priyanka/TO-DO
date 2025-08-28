@@ -2,6 +2,8 @@
 
 A modern, interactive To-Do application that helps you manage tasks efficiently with add, edit, complete, delete, search, filter, and dark/light mode functionality. Tasks are persisted using localStorage for seamless user experience.
 
+---
+
 *💡 Overview*
 
 This To-Do App allows users to:
@@ -17,6 +19,8 @@ Filter tasks by status: All, Completed, Pending.
 Toggle between dark and light themes.
 
 Persist tasks across page reloads using localStorage.
+
+---
 
 *⚙️ Features*
 
@@ -38,6 +42,8 @@ Responsive Design: Works on desktop and mobile.
 
 Persistent Storage: Tasks saved in localStorage.
 
+---
+
 *🛠️ Technologies Used*
 
 HTML5 – Page structure
@@ -47,6 +53,8 @@ CSS3 – Styling, layout, and dark/light themes
 JavaScript (ES6) – Task management logic
 
 Font Awesome – Icons via CDN
+
+---
 
 *🔧 Usage Instructions*
 
@@ -63,6 +71,8 @@ Search Tasks: Type in search bar to filter tasks by keyword.
 Filter Tasks: Use dropdown to filter by All, Completed, or Pending tasks.
 
 Toggle Theme: Click 🌙 / ☀️ to switch between dark/light modes.
+
+---
 
 *🌐 Live Demo*
 
