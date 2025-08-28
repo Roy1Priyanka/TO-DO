@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>To-Do App</title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha512-yHq6eY4A7hWg9l7CmZ9Fz1QzHVYpcnO9nB6j5gOb+iH/tf7dEy0eHnQ9s6mCq3/kVf4QkD92L0qO9rZz2SkJZg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-container">
+    <h1><i class="fa-solid fa-check-circle"></i> To-Do App</h1>
+    <button id="themeToggle">🌙 Dark Mode</button>
+
+    <div class="input-section">
+      <input type="text" id="taskInput" placeholder="Enter your task...">
+      <div class="datetime-row">
+        <input type="date" id="taskDate">
+        <input type="time" id="taskTime">
+      </div>
+    </div>
+
+    <div class="controls">
+      <input type="text" id="searchInput" placeholder="Search tasks...">
+      <select id="filterStatus">
+        <option value="all">All</option>
+        <option value="completed">Completed</option>
+        <option value="pending">Pending</option>
+      </select>
+      <button id="addTaskBtn">➕ Add Task</button>
+    </div>
+
+    <ul id="taskList"></ul>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
