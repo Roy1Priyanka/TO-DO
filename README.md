@@ -78,4 +78,4 @@ Toggle Theme: Click 🌙 / ☀️ to switch between dark/light modes.
 
 You can view and interact with the app online here:
 
-[**Open To-Do App**](https://your-hosted-link.com)
+[**Open To-Do App**](https://to-do-app-assign.netlify.app/)
