@@ -1,4 +1,4 @@
-*# 📝 To-Do App*
+*## 📝 To-Do App*
 
 A modern, interactive To-Do application that helps you manage tasks efficiently with add, edit, complete, delete, search, filter, and dark/light mode functionality. Tasks are persisted using localStorage for seamless user experience.
 
